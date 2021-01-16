@@ -1,10 +1,13 @@
 # WHU课代表计划 - 武汉大学课程资料整理
 <img src="https://raw.githubusercontent.com/openwhu/OpenWHU/master/OpenWHU.png">
 
+[![Gitter](https://badges.gitter.im/openwhu/community.svg)](https://gitter.im/openwhu/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ## 使用|Usage
 
 使用方法：访问 https://openwhu.github.io/ ，点击资料链接即可下载。
 批量下载可尝试使用[DownGit](https://minhaskamal.github.io/DownGit/#/home)
+
+镜像下载网站: [https://onedrive.openwhu.workers.dev/OpenWHU/](https://onedrive.openwhu.workers.dev/OpenWHU/)
 
 ## 前言|Preface
 
@@ -32,7 +35,7 @@
 
 **Together We Can Make WHU A Better Place**
 
-### 愿景：
+## 愿景：
 
 1.一定程度上消除信息不对称所带来的不公平现象。
 
@@ -47,7 +50,19 @@
 
 ## 贡献|Contribution
 
-### 规则
+**欢迎贡献！**
+
+**欢迎贡献！**
+
+**欢迎贡献！**
+
+**欢迎贡献！**
+
+**欢迎贡献！**
+
+*——* *因为是武大所以说五遍*
+
+## 规则
 
 1.**所有资料必须为任课教师向学生公开内容**
 
@@ -55,11 +70,11 @@
 
 3.**建议文件名命名格式:**
 
+**以课程名命名即可**
+
 ~~**“年份”\_“课程名”\_“授课老师姓名拼音首字母”（可选）\_“贡献者分数”（可选）\_“贡献者”（可选）**~~
 
 ~~如： “2019\_高等数学\_XYZ\_95\_ABC”~~
-
-**以课程名命名即可**
 
 4.建议文件格式及组织：
 
@@ -95,11 +110,11 @@
 
 单次pull request避免上传多门课资料，否则因Github只能review前3000文件，不便检查
 
-请尽量不上传二进制文件
+**请尽量不上传二进制文件（如果有必要请以压缩包形式上传）**
 
-### 上传方法
+## 上传方法
 
-#### 1.通过Pull Request：
+### 1.通过Pull Request：
 
 由于本项目体积很大，故推荐采用在 **GitHub Web 端直接上传** 的方式，具体操作如下：
 
@@ -118,11 +133,11 @@
 
 </details>
 
-#### 2.通过Issue：
+### 2.通过Issue：
 
 或者也可以直接附加在 **Issue** 中，由维护者进行添加。
 
-#### 3.通过邮件：
+### 3.通过邮件：
 
 或者也可以发送邮件至 **OpenWHU@outlook.com** ，由维护者进行添加。
 
@@ -134,6 +149,10 @@
 
 ## 许可|License
 
+由贡献者编写部分的许可如下：
+
+[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
 资料来自网络，相关权利由原作者所有，本项目仅用于收集现有资料。
 
 当然，我们不会为收集到的资料收费，或是尝试收取捐赠。
@@ -143,7 +162,7 @@
 ## 相关项目|Related Works
 
 <details>
-  <summary>查看详情|View Details</summary>
+  <summary>查看详情 | View Details</summary>
 
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [气垫船计划——免费、去中心化的北京大学往年题资料库](https://github.com/martinwu42/project-hover)
@@ -159,5 +178,6 @@
 
 </details>
 
+----
 ## 感谢所有参与本计划的同学，欢迎武大在校生加入团队一起维护
 
